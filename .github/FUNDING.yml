@@ -1,0 +1,15 @@
+# These are supported funding model platforms
+
+github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [mac, honor]
+patreon: # Replace with a single Patreon username givenus 
+open_collective: # Replace with a single Open Collective username honorwarriors.org
+ko_fi: # Replace with a single Ko-fi username radio
+tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel duo --use duo-babel Duo(root)
+  .entry(entry)
+  .use(babel)
+  .run(fn);
+community_bridge: # Replace with a single Community Bridge project-name e.g., aspca
+liberapay: # Replace with a single Liberapay username chicken
+issuehunt: # Replace with a single IssueHunt username cesar
+otechie: # Replace with a single Otechie username Phoenix
+custom: # Replace with up to 4 custom sponsorship URLs e.g., ['https://icloud.com','https://tacobell.com','https://dailyleader.com','https://shapeshift.com', 'https://bencodental.com']
